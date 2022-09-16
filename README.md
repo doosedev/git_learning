@@ -41,4 +41,4 @@ Git allows multiple developments to happen simultaneously, using what it calls b
 
 Try it now! Follow the steps to modify the line below to include your name, and submit a PR to this repo :)
 
-Hello world! \_\_\_\_\_ knows git!
+Hello world! Rocio Hernandez knows git!
